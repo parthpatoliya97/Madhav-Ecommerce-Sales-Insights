@@ -35,7 +35,7 @@ Live Dashboard Link :-[Link](https://app.powerbi.com/view?r=eyJrIjoiNGRlZWQ2YTEt
 
 - Top Profit: Madhya Pradesh **(₹7.4K)**, Maharashtra **(₹7K)**, Uttar Pradesh **(₹3.4K)**
 
-### By City
+#### By City
 
 - Top Sales Cities : Indore **(₹64K)**, Mumbai **(₹59K)**, Pune **(₹44K)**
 
@@ -56,7 +56,7 @@ Madhya Pradesh and Maharashtra are key revenue and profit hubs, especially Indor
 - Furniture : **29.05%**
 
 #### Top Performing Sub-Categories
-Sub-Category	Sales |	Profit	Remarks
+##### Sub-Category	Sales |	Profit	Remarks
 - Printers :	**₹59K**	|  **₹9K**	Highest profit contributor
 - Bookcases :	**₹57K**	|  **₹7K**	Consistent performer
 - Sarees :	**₹59K**  |	**₹4K**	High sales, moderate profit
