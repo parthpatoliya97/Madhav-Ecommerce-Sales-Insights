@@ -4,6 +4,8 @@
 
 Live Dashboard Link :-[Link](https://app.powerbi.com/view?r=eyJrIjoiNGRlZWQ2YTEtOGM0My00MGMyLTk4N2ItZDY4YjZmNTkwZTYxIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🛒 Madhav E-Commerce Sales Insights (2018)
 
 #### Overview
@@ -24,6 +26,8 @@ Live Dashboard Link :-[Link](https://app.powerbi.com/view?r=eyJrIjoiNGRlZWQ2YTEt
 
 - COD Transactions : 69.4% of total orders
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 1️. Regional Performance
 #### By State
 
@@ -37,8 +41,10 @@ Live Dashboard Link :-[Link](https://app.powerbi.com/view?r=eyJrIjoiNGRlZWQ2YTEt
 
 - Top Profit Cities : Indore **(₹6.8K)**, Pune **(₹6.2K)**, Mathura **(₹3.3K)**
 
-Insight:
+Insight :
 Madhya Pradesh and Maharashtra are key revenue and profit hubs, especially Indore, which alone drives the highest profit among all cities. These regions should be prioritized for inventory expansion, faster delivery options, and targeted marketing campaigns.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2️. Category and Sub-Category Insights
 #### Sales by Category
@@ -50,15 +56,17 @@ Madhya Pradesh and Maharashtra are key revenue and profit hubs, especially Indor
 - Furniture : 29.05%
 
 #### Top Performing Sub-Categories
-Sub-Category	Sales	Profit	Remarks
-- Printers	₹59K	₹9K	Highest profit contributor
-- Bookcases	₹57K	₹7K	Consistent performer
-- Sarees	₹59K	₹4K	High sales, moderate profit
-- Accessories	₹22K	₹3K	Low profit margin
-- Tables	₹23K	₹3K	Average performance
+Sub-Category	Sales |	Profit	Remarks
+- Printers	₹59K	|  ₹9K	Highest profit contributor
+- Bookcases	₹57K	|  ₹7K	Consistent performer
+- Sarees	₹59K  |	₹4K	High sales, moderate profit
+- Accessories	₹22K	|  ₹3K	Low profit margin
+- Tables	₹23K  |	₹3K	Average performance
 
-Insight:
+Insight :
 While electronics and furniture categories contribute the most to profits, clothing (especially sarees) shows strong sales potential but lower profitability — indicating a need to optimize procurement cost and pricing strategy.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 3️. Payment Mode Analysis
 Payment Mode	Sales Contribution
@@ -68,8 +76,10 @@ Payment Mode	Sales Contribution
 - UPI : 15.68%
 - Debit Card : 11.22%
 
-Insight:
+Insight :
 A heavy reliance on COD (69.4% of orders) suggests lower digital payment adoption, which can lead to higher returns and delayed cash flow. Encouraging digital payments through discounts or loyalty points could enhance efficiency and reduce operational costs.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4️. Monthly Trend Analysis
 
@@ -79,8 +89,10 @@ A heavy reliance on COD (69.4% of orders) suggests lower digital payment adoptio
 
 - Peak Sales & Profit : November
 
-Insight:
+Insight :
 Sales and profit peak in November, likely due to festive season promotions (e.g., Diwali). Performance dips during mid-year months suggest an opportunity to introduce mid-year clearance or discount campaigns to stabilize revenue across the year.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💡 Strategic Recommendations
 
@@ -113,6 +125,8 @@ Sales and profit peak in November, likely due to festive season promotions (e.g.
 - Analyze sub-category margins regularly to identify underperforming SKUs.
 
 - Implement data-driven pricing models to maintain competitiveness without eroding profit margins.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ Conclusion
 
