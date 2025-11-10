@@ -128,7 +128,7 @@ Sales and profit peak in November, likely due to festive season promotions (e.g.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ Conclusion
+### ✅ Conclusion
 
-Madhav E-Commerce demonstrated solid sales growth in 2018 with strong regional performance in western and central India. However, the profit margin of 8.44% indicates room for improvement through better pricing, reduced COD dependence, and strategic promotional campaigns.
+- Madhav E-Commerce demonstrated solid sales growth in 2018 with strong regional performance in western and central India. However, the profit margin of 8.44% indicates room for improvement through better pricing, reduced COD dependence, and strategic promotional campaigns.
 By focusing on high-potential regions, profitable product categories, and digital payment optimization, Madhav E-Commerce can achieve sustainable growth and improved profitability in the coming years.  `
