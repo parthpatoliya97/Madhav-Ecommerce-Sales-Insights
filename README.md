@@ -14,17 +14,17 @@ Live Dashboard Link :-[Link](https://app.powerbi.com/view?r=eyJrIjoiNGRlZWQ2YTEt
 
 ### Key Metrics
 
-- Total Sales : ₹438K
+- Total Sales : **₹438K**
 
-- Total Profit : ₹37K
+- Total Profit : **₹37K**
 
-- Profit Margin : 8.44%
+- Profit Margin : **8.44%**
 
-- Average Profit per Order : ₹73.93
+- Average Profit per Order : **₹73.93**
 
-- Average Order Value (AOV) : ₹875.54
+- Average Order Value (AOV) : **₹875.54**
 
-- COD Transactions : 69.4% of total orders
+- COD Transactions : **69.4%** of total orders
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,19 +49,19 @@ Madhya Pradesh and Maharashtra are key revenue and profit hubs, especially Indor
 ### 2️. Category and Sub-Category Insights
 #### Sales by Category
 
-- Electronics : 37.98% of total sales
+- Electronics : **37.98%** of total sales
 
-- Clothing : 32.97%
+- Clothing : **32.97%**
 
-- Furniture : 29.05%
+- Furniture : **29.05%**
 
 #### Top Performing Sub-Categories
 Sub-Category	Sales |	Profit	Remarks
-- Printers	₹59K	|  ₹9K	Highest profit contributor
-- Bookcases	₹57K	|  ₹7K	Consistent performer
-- Sarees	₹59K  |	₹4K	High sales, moderate profit
-- Accessories	₹22K	|  ₹3K	Low profit margin
-- Tables	₹23K  |	₹3K	Average performance
+- Printers :	**₹59K**	|  **₹9K**	Highest profit contributor
+- Bookcases :	**₹57K**	|  **₹7K**	Consistent performer
+- Sarees :	**₹59K**  |	**₹4K**	High sales, moderate profit
+- Accessories :	**₹22K**	|  **₹3K**	Low profit margin
+- Tables :	**₹23K**  |	**₹3K**	Average performance
 
 Insight :
 While electronics and furniture categories contribute the most to profits, clothing (especially sarees) shows strong sales potential but lower profitability — indicating a need to optimize procurement cost and pricing strategy.
@@ -70,11 +70,11 @@ While electronics and furniture categories contribute the most to profits, cloth
 
 ### 3️. Payment Mode Analysis
 Payment Mode	Sales Contribution
-- COD :	35.45%
-- Credit Card :	19.86%
-- EMI :	17.79%
-- UPI : 15.68%
-- Debit Card : 11.22%
+- COD :	**35.45%**
+- Credit Card :	**19.86%**
+- EMI :	**17.79%**
+- UPI : **15.68%**
+- Debit Card : **11.22%**
 
 Insight :
 A heavy reliance on COD (69.4% of orders) suggests lower digital payment adoption, which can lead to higher returns and delayed cash flow. Encouraging digital payments through discounts or loyalty points could enhance efficiency and reduce operational costs.
@@ -83,11 +83,11 @@ A heavy reliance on COD (69.4% of orders) suggests lower digital payment adoptio
 
 ### 4️. Monthly Trend Analysis
 
-- Lowest Sales : July
+- Lowest Sales : **July**
 
-- Lowest Profit : May
+- Lowest Profit : **May**
 
-- Peak Sales & Profit : November
+- Peak Sales & Profit : **November**
 
 Insight :
 Sales and profit peak in November, likely due to festive season promotions (e.g., Diwali). Performance dips during mid-year months suggest an opportunity to introduce mid-year clearance or discount campaigns to stabilize revenue across the year.
